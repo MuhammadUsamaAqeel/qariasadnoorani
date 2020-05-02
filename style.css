@@ -1,0 +1,11 @@
+h1{
+    align: center;
+    color:darkblue
+}
+img{
+    width: 300px;
+    border: 2px solid red;
+}
+body{
+    background-color: deeppink;
+}
